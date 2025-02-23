@@ -1,8 +1,18 @@
 
 /* header */
 h1{
-    color: #e88d79;
+    color: teal;
     font-weight: bold;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+    padding-top: 20px;
+}
+h5{
+    color: teal;
 }
 .icon{
     position: relative;
@@ -41,16 +51,18 @@ h1{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: pink;
+    background-color: lightseagreen;
     z-index: 1;
 }
 .container {
     position: relative;
     z-index: 2;
+    
 }
 h2{
-    color: black;
+    color: teal;
     text-align: center;
+    padding-top: 30px;
 }
 #text {
     font-size: 15px;
@@ -58,11 +70,14 @@ h2{
     text-align: center;
 
 }
-.image img {
+/* .image img {
     margin-top: 20px;
     width: 180px;
     height: 280px;
     margin-left: 150px;
+} */
+.image img {
+    padding-top: 50px;
 }
 /* P */
 .Style{

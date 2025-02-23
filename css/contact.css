@@ -6,7 +6,7 @@
   }
   
   body {
-    background-color: pink;
+    background-color: lightseagreen;
   }
   
   .container {
@@ -22,7 +22,7 @@
   .container h1 {
     text-align: center;
     margin-bottom: 20px;
-    color: #333;
+    color: teal;
   
   }
   
@@ -35,13 +35,13 @@
     border: none;
     border-radius: 5px;
     background-color: #f7f7f7;
-    color: #333;
+    color: teal;
   }
   
   form input:focus,
   form textarea:focus {
     outline: none;
-    box-shadow: 0 0 5px #333;
+    box-shadow: 0 0 5px teal;
   }
   
   form button {
@@ -50,13 +50,13 @@
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #333;
+    background-color: lightseagreen;
     color: #fff;
     cursor: pointer;
     transition: 0.3s ease;
   }
   
   form button:hover {
-    background-color: #555;
+    background-color: teal;
   
   }

@@ -22,7 +22,7 @@ section{
     padding: 20px;
     box-sizing: 0px 2px 15px rgba(0,0,0,0.1);
     border-radius: 5px;
-    background-color: pink;
+    background-color: lightseagreen;
 }
 .team .members .teampic {
     overflow: hidden;
@@ -36,7 +36,7 @@ section{
     font-weight: 700;
     margin-bottom: 5px;
     font-size: 20px;
-    color: tomato;
+    color: white;
 }
 .team .members span {
     display: block;
@@ -78,7 +78,7 @@ section{
     
 }
 .team .members .social a i{
-    color: tomato;
+    color: teal;
     font-size: 16px;
     margin: 0 2px;
 }
