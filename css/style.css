@@ -1,26 +1,33 @@
 
 /* header */
 h1{
-    color: teal;
+    color: green;
     font-weight: bold;
 }
 h3{
     color: white;
 }
-p{
+h4{
     color: white;
     padding-top: 20px;
+    text-align: center;
 }
 h5{
-    color: teal;
+    color: green;
+}
+p{
+    color: green;
+    text-align: center;
+    padding-top: 8px;
 }
 .icon{
     position: relative;
     cursor: pointer;
 }
+
 #search:focus {
+    outline: 3px solid green;
     box-shadow: none;
-    outline: none;
     color: black;
 }
 .icon span {
@@ -51,7 +58,7 @@ h5{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: lightseagreen;
+    background-color: green;
     z-index: 1;
 }
 .container {
@@ -60,7 +67,7 @@ h5{
     
 }
 h2{
-    color: teal;
+    color: green;
     text-align: center;
     padding-top: 30px;
 }
@@ -79,26 +86,23 @@ h2{
 .image img {
     padding-top: 50px;
 }
-/* P */
-.Style{
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;  
-}
 
 .footer{
     padding: 100px;
 }  
 .copyright{
-    margin-left: 50px;
+    padding-bottom: 10px;
+    background-color: green;
+}
+.copyright p {
+    color: white;
+    text-align: center;
 }
 .product {
-    font-size: 30px;
+    font-size: 10px;
     margin-top: 20px;
     text-align: center;
     font-weight: bold;
-
-
 }
 
 

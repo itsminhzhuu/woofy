@@ -22,7 +22,7 @@ section{
     padding: 20px;
     box-sizing: 0px 2px 15px rgba(0,0,0,0.1);
     border-radius: 5px;
-    background-color: lightseagreen;
+    background-color: green;
 }
 .team .members .teampic {
     overflow: hidden;
@@ -78,7 +78,7 @@ section{
     
 }
 .team .members .social a i{
-    color: teal;
+    color: green;
     font-size: 16px;
     margin: 0 2px;
 }
