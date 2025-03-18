@@ -16,7 +16,7 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background: lightseagreen;
+    background: whitesmoke;
     
 
 
@@ -35,7 +35,7 @@
     box-shadow: -1px 4px 28px 0px rgba(0, 0, 0 ,0.7 )
 }
 .content header{
-    color: white;
+    color: green;
     font-size: 33px;
     font-weight: 600;
     margin: 0 0 35px 0;
@@ -50,7 +50,7 @@
 }
 .field span{
     width: 40px;
-    color: #222;
+    color: green;
     line-height: 45px;
 }
 .field input{
@@ -59,7 +59,7 @@
     background: transparent;
     border: none;
     outline: none;
-    color: #222;
+    color: green;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
 }
@@ -68,7 +68,7 @@
     right: 13px;
     font-size: 13px;
     font-weight: 700;
-    color: #222;
+    color: green;
     cursor: pointer;
     display: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -86,27 +86,28 @@
 }
 .pass a{
     font-family: 'Poppins',sans-serif;
-    color: white;
+    color: green;
     text-decoration: none;
+    font-size: 14px;
 }
 .pass:hover a{
     text-decoration: underline;
 }
 input[type="submit"]{
-    background: #3498db;
-    border: 1px solid #2691d9;
+    background: green;
+    border: 1px solid green;
     color: white;
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 1px;
     font-weight: 600;
     cursor: pointer;
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 input [type="submit"]:hover{
-    background: #2691d9;
+    background: green;
 }
 .login{
-    color: white;
+    color: green;
     margin: 20px 0;
     font-family: 'Poppins',sans-serif;
 }
@@ -125,12 +126,12 @@ input [type="submit"]:hover{
 }
 .facebook{
     margin-left: 0;
-    background: #4267b2;
-    border: 1px solid #3e61a8;
+    background: green;
+    border: 1px solid green;
 }
 .instagram{
-    background: #E1306C;
-    border: 1px solid #df2060;
+    background: green;
+    border: 1px solid green;
 }
 .link i a{
     font-size: 17px;
@@ -146,12 +147,12 @@ input [type="submit"]:hover{
     font-family: 'Poppins',sans-serif;
 }
 .signup{
-    color: white;
+    color: green;
     font-size: 15px;
     font-family: 'Poppins',sans-serif;
 }
 .signup a{
-    color: #3498db;
+    color: green;
     text-decoration: none;
 }
 .signup a:hover{
